@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K-Subramanyam-01
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Kali Linux and java
+- 🌱 I’m currently learning Kali Linux and python
 - 💞️ I’m looking to collaborate on Kali linux projects
 - 📫 How to reach me:kurugantisubramanyam@gmail.com
 - 😄 Pronouns:He/him
