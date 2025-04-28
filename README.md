@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Kali Linux and python
 - 💞️ I’m looking to collaborate on Kali linux projects
-- 📫 How to reach me:kurugantisubramanyam@gmail.com
+- 📫 How to reach me:ksubramanyam9271@gmail.com
 - 😄 Pronouns:He/him
 - ⚡ Fun fact: Kali Linux is known for its extreme customizability, allowing users to tailor the operating system to their specific needs.
 
