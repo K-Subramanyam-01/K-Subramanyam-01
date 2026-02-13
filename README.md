@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K-Subramanyam-01
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Kali Linux and python
-- 💞️ I’m looking to collaborate on Kali linux projects
+- 🌱 I’m currently learning Linux and python
+- 💞️ I’m looking to collaborate on Cybersecurity projects
 - 📫 How to reach me:ksubramanyam9271@gmail.com
 - 😄 Pronouns:He/him
 - ⚡ Fun fact: Linux is known for its extreme customizability, allowing users to tailor the operating system to their specific needs.
