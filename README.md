@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Kali linux projects
 - 📫 How to reach me:ksubramanyam9271@gmail.com
 - 😄 Pronouns:He/him
-- ⚡ Fun fact: Kali Linux is known for its extreme customizability, allowing users to tailor the operating system to their specific needs.
+- ⚡ Fun fact: Linux is known for its extreme customizability, allowing users to tailor the operating system to their specific needs.
 
 <!---
 K-Subramanyam-01/K-Subramanyam-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
